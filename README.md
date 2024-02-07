@@ -1,4 +1,4 @@
-<h3>Vue API Movie Database</h3>
+<h3>\V/ue API Movie Database</h3>
 
 -Tap into a movie API and search for your favourite motion picture !</br>
 
