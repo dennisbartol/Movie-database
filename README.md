@@ -4,3 +4,5 @@
 
 -Powered by Vue 3</br>
 -And the Open Movie Database API (Application Program Interface) - https://www.omdbapi.com/.
+
+-Yes, it's free: therefore this version has the bones only. 
