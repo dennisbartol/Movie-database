@@ -73,6 +73,23 @@ export default {
 
 <style lang="scss">
 .home {
+	padding: 0 14px; 
+
+	.home-nav { 
+		display: flex; 
+		gap: 1.5em; 
+		padding: 14px 0; 
+		a { 
+			color: #42B883; 
+			font-weight: 500; 
+			text-decoration: none; 
+			& hover { 
+				color: ghostwhite; 
+		  }
+	   }
+	}
+	
+	
   .feature-card {
     position: relative;
 
