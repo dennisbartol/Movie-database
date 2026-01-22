@@ -1,5 +1,10 @@
 <template>
   <div class="home">
+
+	<nav class="home-nav">
+
+	</nav>
+	  
     <div class="feature-card">
       <router-link to="/movie/tt0086190">
         <img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/773B031A52B5727F7C218E42149B45095C21A8BA56601EB1F51FC46485304210/scale?width=1200&aspectRatio=1.78&format=jpeg" alt="Naruto Poster" class="featured-img" />
