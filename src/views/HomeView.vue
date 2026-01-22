@@ -5,6 +5,7 @@
 		<router-link to="/">Home</router-link>
 		<router-link to="/trending">Trending</router-link>
 		<router-link to="/favorites">Favorites></router-link>
+		<router-link to="/whattowatch">What to watch</router-link>
 	</nav
 	  
     <div class="feature-card">
