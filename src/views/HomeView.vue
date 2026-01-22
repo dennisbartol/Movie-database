@@ -2,8 +2,10 @@
   <div class="home">
 
 	<nav class="home-nav">
-
-	</nav>
+		<router-link to="/">Home</router-link>
+		<router-link to="/trending">Trending</router-link>
+		<router-link to="/favorites">Favorites></router-link>
+	</nav
 	  
     <div class="feature-card">
       <router-link to="/movie/tt0086190">
